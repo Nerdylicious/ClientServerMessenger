@@ -1,6 +1,8 @@
 Client-Server Messenger
 =======================
 
+A client-server implementation of a messenger.
+
 The platform is Linux (aviary machines).
 Type the commands in this order in the command line:
 
